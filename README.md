@@ -13,9 +13,3 @@ This repository contains the materials produced for the Dependability course. Th
 - **MobSF** → Mobile Security Framework for static and dynamic analysis of APKs.  
 - **VirusTotal** → Online service for scanning APKs for known malware signatures.  
 - **Android Studio** → For testing and analyzing APKs in an emulator environment.
-
-## How to Use
-
-1. Open `file_report.pdf` for the full detailed analysis.  
-2. Open `file_pres.pptx` to view the presentation slides.  
-3. Open `teoria.pdf` for the theoretical summary of the oral part of the course.
